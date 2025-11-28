@@ -7,7 +7,7 @@
 
 ## Descrição do Projeto
 
-> Este programa foi feito para simular uma batalha de rpg usando herança e alocação com ponteiros, alem de arquivos.
+> Este programa foi feito para simular uma batalha de rpg usando herança e listas e arquivos.
 
 ---
 
@@ -22,7 +22,7 @@ Listar e escrever brevemente sobre os principais **arquivos de código** (classe
 | `Carrega.h / Carregar.cpp`| Classe para carregar o jogo.  |
 | `Personagem.h / Personagem.cpp`  | Classe base dos personagens.                                 |
 | `Forca.h / Forca.cpp`    | Classe de tipo força que herda da base.                                 |
-| `Defesa.h / Defesa.cpp`  | Shader de tipo defesa que herda da base.                                  |
+| `Defesa.h / Defesa.cpp`  | Classe de tipo defesa que herda da base.                                  |
 | `Guerreiro.h / Guerreiro.cpp`| Classe do guerreiro, herda de forca.                                 |
 | `Forteiro.h / Forteiro.cpp`  | Classe do forteiro, herda de defesa.
 | `Mago.h / Mago.cpp`      | Classe do mago, usa os dois tipos de classe.                             |
