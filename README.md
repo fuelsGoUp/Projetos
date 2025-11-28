@@ -31,7 +31,7 @@ Listar e escrever brevemente sobre os principais **arquivos de código** (classe
 ## Informações Técnicas
 
 - **Linguagem:** C++ (C++11 ou superior)  
-- **IDE/Compilador:** Visual Studio Code / MinGW / CMake (ou equivalente)  
+- **IDE/Compilador:** Visual Studio Code / MinGW
 - **Plataforma-alvo:** Windows / Linux / MacOS  
 
 ---
